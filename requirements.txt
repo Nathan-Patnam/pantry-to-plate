@@ -1,0 +1,6 @@
+- Be able to create an account
+- Be able to login
+- Be able to view ingredients in your cart
+- Be able to add, delete and modify ingredients
+- Be able to specify quantity of ingredients
+- Be able to find recipes online
