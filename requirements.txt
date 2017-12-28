@@ -4,3 +4,4 @@
 - Be able to add, delete and modify ingredients
 - Be able to specify quantity of ingredients
 - Be able to find recipes online
+- I think that I will be building this website with ruby on rails
